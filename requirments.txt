@@ -1,0 +1,5 @@
+ultralytics==8.3.127
+easyocr==1.7.2
+matplotlib==3.10.1
+numpy==2.2.5
+pyserial
